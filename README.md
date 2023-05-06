@@ -9,7 +9,7 @@
 <p align="justify">
 This GitHub repository is a useful resource for beginners learning the basics of HTML and CSS.
 
-The project simulates a main loading screen of an operating system, which makes it interesting for learning basic concepts such as using relative measures, aligning elements on screen using 'flexbox' or animating objects with CSS.
+The project simulates a simple main loading screen of an operating system, which makes it interesting for learning basic concepts such as using relative measures, aligning elements on screen using 'flexbox' or animating objects with CSS.
 
 The code of the project is free to use and can be downloaded for use or study.
 </p>
