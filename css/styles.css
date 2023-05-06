@@ -1,0 +1,57 @@
+/* GENERAL */
+
+/* We override the styles that some browsers set by default. */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* 1rem will be 10px. */
+html {
+    font-size: 62.5%;
+}
+
+body {
+    background-color: #3c3c3c;
+}
+
+/* LOADING SCREEN */
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;   
+}
+
+.logo {
+    width: 40rem;
+    height: 40rem;
+    margin-top: 10rem;
+}
+
+.text {
+    font-family: 'Ubuntu', sans-serif;
+    margin-top: 5rem;
+    font-size: 3.2rem;
+    color: antiquewhite;
+}
+
+.loader {
+    margin-top: 5rem;
+    width: 7.5rem;
+    height: 7.5rem;
+    border: solid 1rem antiquewhite;
+    border-radius: 50%;
+    border-right-color: #fec107;
+    
+    /* Circular animation */
+    animation: spin 1s ease infinite;
+}
+
+/* Animation properties */
+@keyframes spin {
+    100% {
+        transform: rotate(360deg);
+    }
+}
