@@ -1,7 +1,7 @@
 # Operating System Loading Screen Simulation
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Release-v1.0.0-blue.svg" alt="Version">
+  <img src="https://img.shields.io/badge/Release-v1.0.3-blue.svg" alt="Version">
 	<img src="https://img.shields.io/badge/Update-May%202023-yellowgreen.svg" alt="Update">
 	<img src="https://img.shields.io/badge/License-MIT%20License-green.svg" alt="License">
 </div>
