@@ -13,7 +13,7 @@ html {
 }
 
 body {
-    background-color: #3c3c3c;
+    background-color: #080808;
 }
 
 /* LOADING SCREEN */
@@ -33,7 +33,7 @@ body {
 .text {
     font-family: 'Ubuntu', sans-serif;
     margin-top: 5rem;
-    font-size: 3.2rem;
+    font-size: 5.0rem;
     color: antiquewhite;
 }
 
@@ -44,8 +44,9 @@ body {
     border: solid 1rem antiquewhite;
     border-radius: 50%;
     border-right-color: #fec107;
-    border-bottom-color: #3c3c3c;
-    
+    border-left-color: #f3e0a8;
+    box-shadow: 0 0 1rem #fec107;
+
     /* Circular animation */
     animation: spin 1s ease infinite;
 }
